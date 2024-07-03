@@ -154,9 +154,10 @@ button {
 }
 
 .video_2 video {
-    width: 64%;
+    width: 70%;
     height: 100%;
-    margin-left: -17%;
+    margin-left: 14%;
+    margin-top: -26%;
 }
 
 /* .video_1 {
@@ -174,10 +175,10 @@ button {
     height: 100%;
 } */
 
-.video_2 {
+/* .video_2 {
     top: 1632px;
     right: 27px;
-}
+} */
 
 /* .video_2 video {
     width: 55%;
