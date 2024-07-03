@@ -146,25 +146,43 @@ button {
     height: 80%;
 }
 
-.video_1 {
-    top: 755px;
-    right: 96px;
-}
-
 .video_1 video {
-    width: 70%;
+    width: 82%;
     height: 100%;
-}
-
-.video_2 {
-    top: 1570px;
-    right: 27px;
+    margin-left: 13%;
+    margin-top: 15%;
 }
 
 .video_2 video {
+    width: 64%;
+    height: 100%;
+    margin-left: -17%;
+}
+
+/* .video_1 {
+    top: 755px;
+    right: 96px;
+} */
+
+/* .video_1 video {
+    width: 81%;
+    height: 100%;
+} */
+
+/* .video_1 video {
+    width: 70%;
+    height: 100%;
+} */
+
+.video_2 {
+    top: 1632px;
+    right: 27px;
+}
+
+/* .video_2 video {
     width: 55%;
     height: 100%;
-}
+} */
 
 .footer{
     height: 40vh;
